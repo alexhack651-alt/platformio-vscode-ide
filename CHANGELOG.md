@@ -56,11 +56,11 @@
 ### Project Management
 
 * IntelliSense for [platformio.ini](https://docs.platformio.org/en/latest/projectconf/index.html) configuration file
-  - Auto-completion for configuration options
-  - Auto-completion for choice-based option values
-  - Hover over the option and get a quick documentation
-  - Realtime serial port auto-completion for port-related options
-  - Quickly jump to the development platform or library located in the PlatformIO Registry
+  * Auto-completion for configuration options
+  * Auto-completion for choice-based option values
+  * Hover over the option and get a quick documentation
+  * Realtime serial port auto-completion for port-related options
+  * Quickly jump to the development platform or library located in the PlatformIO Registry
 * Native integration of [PlatformIO Unit Testing](https://docs.platformio.org/en/latest/advanced/unit-testing/index.html) with VSCode Testing UI
 * New port switcher to override upload, monitor, or testing port (issue [#545](https://github.com/platformio/platformio-vscode-ide/issues/545))
 * Advanced project configuring progress with logging and canceling features
